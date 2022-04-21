@@ -50,8 +50,8 @@
 ---
 
 - **유튜브 : [https://youtu.be/vvKFHcwUXts](https://youtu.be/vvKFHcwUXts)**
-- **Git Hub : [https://github.com/yoonsangmin/directx-project](https://github.com/yoonsangmin/DirectXProject)**
+- **Git Hub : [https://github.com/yoonsangmin/DirectXProject](https://github.com/yoonsangmin/DirectXProject)**
 
 ## 영상
 
-[![미로 게임 - 다이렉트 X 11 프로젝트 | Maze Game - DirectX 11 Project](https://img.youtube.com/vi/vvKFHcwUXts/0.jpg)](https://www.youtube.com/watch?v=Yh8qUwMy0QQ "미로 게임 - 다이렉트 X 11 프로젝트 | Maze Game - DirectX 11 Project")
+[![미로 게임 - 다이렉트 X 11 프로젝트 | Maze Game - DirectX 11 Project](https://img.youtube.com/vi/vvKFHcwUXts/0.jpg)](https://www.youtube.com/watch?v=vvKFHcwUXts "미로 게임 - 다이렉트 X 11 프로젝트 | Maze Game - DirectX 11 Project")
