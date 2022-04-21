@@ -1,2 +1,0 @@
-VideoCard Name : NVIDIA GeForce RTX 2080
-Memory Size(MB) : 3072
