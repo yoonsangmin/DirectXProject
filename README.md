@@ -2,8 +2,6 @@
 
 # 👉개요
 
----
-
 ## 게임 개요
 
 - **게임 이름 : Maze Game**
@@ -25,8 +23,6 @@
 
 # 👉특징
 
----
-
 ## 담당 업무
 
 **✔ 게임 기획**
@@ -46,8 +42,6 @@
 ✔ 직육면체의 간단한 충돌체 구현
 
 # 👉참고 링크
-
----
 
 - **유튜브 : [https://youtu.be/vvKFHcwUXts](https://youtu.be/vvKFHcwUXts)**
 - **Git Hub : [https://github.com/yoonsangmin/DirectXProject](https://github.com/yoonsangmin/DirectXProject)**
